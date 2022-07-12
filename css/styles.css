@@ -230,6 +230,10 @@ b {
 }
 
 /* Портфолио */
+.bar {
+  text-align: center;
+}
+
 .examples-link {
   text-decoration: none;
 }
